@@ -22,31 +22,6 @@ TorGhost is an anonymization script. TorGhost redirects all internet traffic thr
 
 `./build.sh`
 
-## How to install ?
-**New kali update is causing permission error, please build and install from source**
-
-~~TorGhost can be installed by downloading the [latest release](https://github.com/SusmithKrishnan/torghost/releases) using debian package manager~~
-
-~~Download~~
-
-~~` wget -c https://github.com/SusmithKrishnan/torghost/releases/download/v3.0.2/torghost-3.0.2-amd64.deb`~~
-
-~~In the downloaded folder use dpkg to install~~
-
-~~`sudo dpkg -i torghost-*-amd64.deb`~~
-
-
-
-#### Alternate method (support for previous install script)
-The *install.sh* script also does the same. Its for users following old tutorials.
-
-`git clone https://github.com/SusmithKrishnan/torghost.git`
-
-`cd torghost`
-
-`chmod +x install.sh`
-
-`./install.sh`
 
 
 ## Usage
